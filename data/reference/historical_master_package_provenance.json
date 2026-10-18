@@ -1,0 +1,8 @@
+{
+  "input_file": "서울시버스 정보.zip",
+  "source": "user-provided official historical snapshots",
+  "sha256": "29f4b69b5e5672db77a08bc7141b61c25b39ad4d14cc85f18d1d8e3f2d02c28d",
+  "size_bytes": 29006044,
+  "core_input_source": "Gate2F0SX csv_source_manifest.csv matched by exact ZIP SHA256",
+  "boundary_source": "existing Gate2C1 validated assets, unchanged"
+}

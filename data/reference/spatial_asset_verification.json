@@ -1,0 +1,13 @@
+{
+  "sha256": {
+    "project_sources/02-_-_-.zip": "ea17ef574e29c45919c54c8718869e4cc9b3992869df3dc88379f21c9e10e27a",
+    "project_sources/04-_-_-.zip": "69e8c5dad71dffbc6d0d9be8f9ad607e3d02e72a2577cbaf1b9ba795518226e4"
+  },
+  "boundary_count": 427,
+  "code_count": 427,
+  "one_to_one_codes": true,
+  "crs": "EPSG:5179",
+  "crs_basis": "Inherited validated Gate2C1 assignment; original ZIP has no PRJ",
+  "geometry_function_sha256": "e9b6c4588e74276c3410687d3417d28ed2a1326cf6921add2e6fa61123ca79a0",
+  "geometry_modified": false
+}

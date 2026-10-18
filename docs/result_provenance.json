@@ -1,0 +1,255 @@
+[
+  {
+    "path": "outputs/F0SX/monthly_schema_audit.csv",
+    "gate": "F0SX",
+    "source_file": "monthly_schema_audit.csv",
+    "sha256": "3d296c6abc90f7b7775b66170b9bd4bb3e5b4f65115163f5b66fa05bc0973398",
+    "bytes": 122548,
+    "method": "unchanged copy of existing result"
+  },
+  {
+    "path": "outputs/F0SX/monthly_date_coverage.csv",
+    "gate": "F0SX",
+    "source_file": "monthly_date_coverage.csv",
+    "sha256": "9f35bdfe318d7325e5d2ed745ab4c759ea6213ba2b36f9fe6a5f466a39474f26",
+    "bytes": 4707,
+    "method": "unchanged copy of existing result"
+  },
+  {
+    "path": "outputs/F0SX/monthly_duplicate_audit.csv",
+    "gate": "F0SX",
+    "source_file": "monthly_duplicate_audit.csv",
+    "sha256": "2f2ef15b1fe4074abee18d38c396be47488be86daa15702c7325de96d0919136",
+    "bytes": 1585,
+    "method": "unchanged copy of existing result"
+  },
+  {
+    "path": "outputs/F0M/final_month_eligibility.csv",
+    "gate": "F0M",
+    "source_file": "final_month_eligibility.csv",
+    "sha256": "d73a769bec67b4d7333d48d1f775936614f6e5efb02cddab5dccd71efc0f80c7",
+    "bytes": 2088,
+    "method": "unchanged copy of existing result"
+  },
+  {
+    "path": "outputs/F0M/monthly_master_assignment.csv",
+    "gate": "F0M",
+    "source_file": "monthly_master_assignment.csv",
+    "sha256": "b372d0ef0c56d5ad56c15664f5d472d19c163564a260c3942f01a628266e2c47",
+    "bytes": 6135,
+    "method": "unchanged copy of existing result"
+  },
+  {
+    "path": "outputs/F1A/monthly_dong_metrics.csv",
+    "gate": "F1A",
+    "source_file": "monthly_dong_metrics.csv",
+    "sha256": "4250a0a873d124775c264940dbc690bf2a225b52a8d45f82b790a59d67e55c85",
+    "bytes": 768888,
+    "method": "unchanged copy of existing result"
+  },
+  {
+    "path": "outputs/F1A/monthly_candidate_flags.csv",
+    "gate": "F1A",
+    "source_file": "monthly_candidate_flags.csv",
+    "sha256": "f867abe80a15a063c451b9884751ddb586bce3e9681d6a4c40e720ba19b8e0e3",
+    "bytes": 485531,
+    "method": "unchanged copy of existing result"
+  },
+  {
+    "path": "outputs/F1A/monthly_relationship_summary.csv",
+    "gate": "F1A",
+    "source_file": "monthly_relationship_summary.csv",
+    "sha256": "04d3c2918d4e82a99c754abcf19818d3b25679a1e83a16c07cfaacbcc5baf9d4",
+    "bytes": 1715,
+    "method": "unchanged copy of existing result"
+  },
+  {
+    "path": "outputs/F1A/monthly_core_sample_counts.csv",
+    "gate": "F1A",
+    "source_file": "monthly_core_sample_counts.csv",
+    "sha256": "0c284e82e201a788ec055aa2372b573be4d99dd95fbc015f2d1f866589f017a8",
+    "bytes": 3966,
+    "method": "unchanged copy of existing result"
+  },
+  {
+    "path": "outputs/F1B/dong_replication_metrics.csv",
+    "gate": "F1B",
+    "source_file": "dong_replication_metrics.csv",
+    "sha256": "bd2f3b99e9a00f39e4c3d4b99d1c867865b497b52beaaf1c6346e7a4846f4bf7",
+    "bytes": 61957,
+    "method": "unchanged copy of existing result"
+  },
+  {
+    "path": "outputs/F1B/candidate_recurrence_distribution.csv",
+    "gate": "F1B",
+    "source_file": "candidate_recurrence_distribution.csv",
+    "sha256": "c392b5d056db71da134d2dca41c35f5baec685901807c71890ccc69e41d6a43b",
+    "bytes": 9847,
+    "method": "unchanged copy of existing result"
+  },
+  {
+    "path": "outputs/F1B/monthly_relationship_replication.csv",
+    "gate": "F1B",
+    "source_file": "monthly_relationship_replication.csv",
+    "sha256": "c1d5109acd6d17ba0847e1b4088e3f12af63146962225eb9ffe427ba2340afec",
+    "bytes": 2823,
+    "method": "unchanged copy of existing result"
+  },
+  {
+    "path": "outputs/F1B/replication_summary.csv",
+    "gate": "F1B",
+    "source_file": "replication_summary.csv",
+    "sha256": "e2a366b9b2526cb1007f358a35a94f67464eff2bafa7077d2fde0c51e083c528",
+    "bytes": 4573,
+    "method": "unchanged copy of existing result"
+  },
+  {
+    "path": "outputs/F1B/january_sensitivity_summary.csv",
+    "gate": "F1B",
+    "source_file": "january_sensitivity_summary.csv",
+    "sha256": "f0e706364f245c68be70c3486c604fd1d62659a7bee81fcdf5539cdf375ae4b0",
+    "bytes": 339,
+    "method": "unchanged copy of existing result"
+  },
+  {
+    "path": "outputs/F1C/robustness_monthly_summary.csv",
+    "gate": "F1C",
+    "source_file": "robustness_monthly_summary.csv",
+    "sha256": "361951256b78142e83b2e5e766a27a9e567ba889e7306a0c6e74c9f6800021b7",
+    "bytes": 15537,
+    "method": "unchanged copy of existing result"
+  },
+  {
+    "path": "outputs/F1C/robustness_temporal_summary.csv",
+    "gate": "F1C",
+    "source_file": "robustness_temporal_summary.csv",
+    "sha256": "933182b38c5544726a70a23cb4c97a3a29781d105b703010bb17b1961a94b0dd",
+    "bytes": 8071,
+    "method": "unchanged copy of existing result"
+  },
+  {
+    "path": "outputs/F1C/robustness_4week_comparison.csv",
+    "gate": "F1C",
+    "source_file": "robustness_4week_comparison.csv",
+    "sha256": "19fb22ef2929fc68bb5288f751e7e5ed260415a76ab97785d7ac8859747ff8ea",
+    "bytes": 4445,
+    "method": "unchanged copy of existing result"
+  },
+  {
+    "path": "outputs/M1/dong_max_recurrence_route_segments.csv",
+    "gate": "M1",
+    "source_file": "dong_max_recurrence_route_segments.csv",
+    "sha256": "ba14af3923db5afcba165e873b3a7ae3c7c627950007b5ed483d98e4c860264f",
+    "bytes": 66003,
+    "method": "unchanged copy of existing result"
+  },
+  {
+    "path": "outputs/M1/dong_segment_concentration.csv",
+    "gate": "M1",
+    "source_file": "dong_segment_concentration.csv",
+    "sha256": "f5cdd63bafbaedccf55eedc91d08ccd63e2c843b0e2f951fe25002082cec914b",
+    "bytes": 1401,
+    "method": "unchanged copy of existing result"
+  },
+  {
+    "path": "outputs/M1/segment_K_distribution.csv",
+    "gate": "M1",
+    "source_file": "segment_K_distribution.csv",
+    "sha256": "8327dea815ccae48a902db52756a401e23ae7fe26d6fd1cadb0f81ace25bceb5",
+    "bytes": 7154,
+    "method": "unchanged copy of existing result"
+  },
+  {
+    "path": "outputs/M2/diagnostic43_hourly_heatmap.csv",
+    "gate": "M2",
+    "source_file": "diagnostic43_hourly_heatmap.csv",
+    "sha256": "65dbd6091793168740c0ebba95726cfc38458fd05eddf19cf5cf3b29b43efeda",
+    "bytes": 6619,
+    "method": "unchanged copy of existing result"
+  },
+  {
+    "path": "outputs/M2/diagnostic43_pattern_summary.csv",
+    "gate": "M2",
+    "source_file": "diagnostic43_pattern_summary.csv",
+    "sha256": "2f635b35a1502190875dc1088141597fabb1cf65a7a2d2a01d6d505ecda76520",
+    "bytes": 13467,
+    "method": "unchanged copy of existing result"
+  },
+  {
+    "path": "outputs/M2/background758_hourly_summary.csv",
+    "gate": "M2",
+    "source_file": "background758_hourly_summary.csv",
+    "sha256": "9ffb3b74d839b9b0a976d27b6a78bfe98d7babd3516d337f151fd223e8b710ca",
+    "bytes": 49357,
+    "method": "unchanged copy of existing result"
+  },
+  {
+    "path": "outputs/M2/weekday_support_summary.csv",
+    "gate": "M2",
+    "source_file": "weekday_support_summary.csv",
+    "sha256": "7a9fea81b974d2a59432d2f794288ae204f1f9582a099c929e7d035e64a7a0a8",
+    "bytes": 511,
+    "method": "unchanged copy of existing result"
+  },
+  {
+    "path": "outputs/M3C/diagnostic43_pair_support.csv",
+    "gate": "M3C",
+    "source_file": "diagnostic43_pair_support.csv",
+    "sha256": "3fdf5bc487717ec2241615751505c3ee40084d3322b801420046c072b400866f",
+    "bytes": 13429,
+    "method": "unchanged copy of existing result"
+  },
+  {
+    "path": "outputs/M3C/diagnostic43_evidence_matrix.csv",
+    "gate": "M3C",
+    "source_file": "diagnostic43_evidence_matrix.csv",
+    "sha256": "5f787281044f63aac38a8ad4ae6d237690e282157f01869e1d0951043fdc9c15",
+    "bytes": 84578,
+    "method": "unchanged copy of existing result"
+  },
+  {
+    "path": "outputs/M3C/monthly_route_concentration_association.csv",
+    "gate": "M3C",
+    "source_file": "monthly_route_concentration_association.csv",
+    "sha256": "5b2c74f391ae0a43ac8701727324fe45fca03a57a340b7fbff1351bb4ee4d32d",
+    "bytes": 1576,
+    "method": "unchanged copy of existing result"
+  },
+  {
+    "path": "outputs/C2B/daily_activity_case_results.csv",
+    "gate": "C2B",
+    "source_file": "daily_activity_case_results.csv",
+    "sha256": "5f6bd2ad923de4387ac1263e64f8fc520e704745156237826422828f2ebff1a3",
+    "bytes": 71078,
+    "method": "unchanged copy of existing result"
+  },
+  {
+    "path": "outputs/C2B/daily_weather_case_results.csv",
+    "gate": "C2B",
+    "source_file": "daily_weather_case_results.csv",
+    "sha256": "5ee5f6132e6c588bca033006a772a77d050921449658e6d4c204f933bb278dae",
+    "bytes": 151803,
+    "method": "unchanged copy of existing result"
+  },
+  {
+    "path": "outputs/C2B/case_evidence_summary.csv",
+    "gate": "C2B",
+    "source_file": "case_evidence_summary.csv",
+    "sha256": "16b192a4e7008f6c844d69697464d4e9c3725f31e572112fcbc78a88c17d60bb",
+    "bytes": 22536,
+    "method": "unchanged copy of existing result"
+  },
+  {
+    "path": "outputs/recurring_regions_9.csv",
+    "gate": "F1B",
+    "source_file": "dong_replication_metrics.csv",
+    "method": "existing K_rep=8 nine rows, display projection only, no reselection"
+  },
+  {
+    "path": "outputs/representative_case_summary.csv",
+    "gate": "C3",
+    "source_file": "case_mechanism_summary(1).csv",
+    "sha256": "74c3f81b693e278cd9dacb123f526de4631f19e1c89e384c78dbc686ed5b26b6",
+    "method": "unchanged copy of existing fixed three-case summary"
+  }
+]
