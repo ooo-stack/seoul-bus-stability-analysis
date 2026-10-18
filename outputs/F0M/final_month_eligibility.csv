@@ -1,0 +1,13 @@
+﻿month,snapshot,final_status,all_hold_reasons_json,held_date,held_master,held_coordinate,held_other,N_planned,common_days,coverage_minimum,L_main,monthly_count_condition_pass,weekly_condition_pass,date_condition_pass,verified_main_route_ids,unknown_type_route_ids_excluded,coordinate_record_hold_count,coordinate_record_hold_NODE_IDs_json,raw_conflict_keys_held,conflict_scope,F1_execution_ready,august_role
+202509,20250901,eligible,[],False,False,False,False,22,22,20,19,True,True,True,646,1,1,"[""108900095""]",0,,True,temporal_reproducibility_month
+202510,20250901,eligible,[],False,False,False,False,18,17,17,16,True,True,True,646,1,1,"[""108900095""]",0,,True,temporal_reproducibility_month
+202511,20251002,held_date,"[""held_date""]",True,False,False,False,20,17,18,17,False,False,False,648,0,1,"[""108900095""]",0,,False,temporal_reproducibility_month
+202512,20251103,held_date,"[""held_date""]",True,False,False,False,22,10,20,19,False,False,False,652,0,1,"[""108900095""]",0,,False,temporal_reproducibility_month
+202601,20251209,eligible,[],False,False,False,False,21,19,19,18,True,True,True,654,0,0,[],0,,True,temporal_reproducibility_month
+202602,20260108,eligible,[],False,False,False,False,17,17,16,16,True,True,True,640,15,0,[],0,,True,temporal_reproducibility_month
+202603,20260226,eligible,[],False,False,False,False,21,21,19,18,True,True,True,660,15,0,[],0,,True,temporal_reproducibility_month
+202604,20260305,eligible,[],False,False,False,False,22,22,20,19,True,True,True,659,15,0,[],0,,True,temporal_reproducibility_month
+202605,20260402,eligible,[],False,False,False,False,18,17,17,16,True,True,True,660,15,0,[],0,,True,temporal_reproducibility_month
+202606,20260506,eligible,[],False,False,False,False,21,19,19,18,True,True,True,662,15,0,[],51,individual_date_key_only,True,temporal_reproducibility_month
+202607,20260701,held_date,"[""held_date""]",True,False,False,False,22,20,20,19,True,False,False,659,15,0,[],0,,False,temporal_reproducibility_month
+202608,20260701,eligible,[],False,False,False,False,20,20,18,17,True,True,True,659,15,0,[],0,,True,design_month

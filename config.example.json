@@ -1,0 +1,9 @@
+{
+  "bus_raw": "data/raw/bus",
+  "historical_masters": "data/raw/masters",
+  "spatial_raw": "data/raw/spatial",
+  "auxiliary_uploads": "data/raw/auxiliary",
+  "living_and_metadata": "data/raw/external/c2a_metadata",
+  "official_daily_weather": "data/raw/external/official_daily_weather",
+  "saved_gate_dirs": {}
+}

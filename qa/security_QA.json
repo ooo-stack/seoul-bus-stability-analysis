@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "published_files_checked": 125,
+  "published_csv_files": 33,
+  "raw_observations_included": false,
+  "large_data_containers_included": false,
+  "local_absolute_paths_found": 0,
+  "secret_tokens_found": 0,
+  "personal_emails_found": 0,
+  "private_service_ids_found": 0,
+  "middle_dot_characters_found": 0,
+  "gitignore_probe_paths_all_ignored": true,
+  "no_remote_created_or_pushed": true,
+  "scope": "explicit publish snapshot, content scan and git index review; public route/stop/dong IDs in result tables"
+}

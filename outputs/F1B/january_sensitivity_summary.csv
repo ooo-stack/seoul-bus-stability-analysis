@@ -1,0 +1,2 @@
+﻿Pearson_R_Main_vs_noJan,Spearman_R_Main_vs_noJan,common_valid_dongs,Main_max_K,Main_max_K_dongs,noJan_max_K,noJan_max_K_dongs,max_K_group_intersection,max_K_group_union,R_change_min,R_change_max,R_absolute_change_median,R_absolute_change_P90
+0.99486594562578046,0.92512093573591858,427,8,9,7,30,9,30,-0.125,0.125,0,0.025000000000000598

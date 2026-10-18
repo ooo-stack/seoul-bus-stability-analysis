@@ -1,0 +1,179 @@
+{
+  "status": "PASS",
+  "results": [
+    {
+      "gate": "F1B",
+      "file": "dong_replication_metrics.csv",
+      "rows": 427,
+      "columns": 21,
+      "exact_all_cells_match": true,
+      "byte_sha256_match": true
+    },
+    {
+      "gate": "F1B",
+      "file": "candidate_recurrence_distribution.csv",
+      "rows": 196,
+      "columns": 7,
+      "exact_all_cells_match": true,
+      "byte_sha256_match": true
+    },
+    {
+      "gate": "F1B",
+      "file": "monthly_relationship_replication.csv",
+      "rows": 12,
+      "columns": 28,
+      "exact_all_cells_match": true,
+      "byte_sha256_match": true
+    },
+    {
+      "gate": "F1B",
+      "file": "replication_summary.csv",
+      "rows": 29,
+      "columns": 13,
+      "exact_all_cells_match": true,
+      "byte_sha256_match": true
+    },
+    {
+      "gate": "F1B",
+      "file": "january_sensitivity_summary.csv",
+      "rows": 1,
+      "columns": 13,
+      "exact_all_cells_match": true,
+      "byte_sha256_match": true
+    },
+    {
+      "gate": "F1C",
+      "file": "robustness_monthly_summary.csv",
+      "rows": 84,
+      "columns": 27,
+      "exact_all_cells_match": true,
+      "byte_sha256_match": true
+    },
+    {
+      "gate": "F1C",
+      "file": "robustness_temporal_summary.csv",
+      "rows": 21,
+      "columns": 31,
+      "exact_all_cells_match": true,
+      "byte_sha256_match": true
+    },
+    {
+      "gate": "F1C",
+      "file": "robustness_4week_comparison.csv",
+      "rows": 12,
+      "columns": 42,
+      "exact_all_cells_match": true,
+      "byte_sha256_match": true
+    },
+    {
+      "gate": "M1",
+      "file": "dong_max_recurrence_route_segments.csv",
+      "rows": 43,
+      "columns": 58,
+      "exact_all_cells_match": true,
+      "byte_sha256_match": true
+    },
+    {
+      "gate": "M1",
+      "file": "dong_segment_concentration.csv",
+      "rows": 9,
+      "columns": 22,
+      "exact_all_cells_match": true,
+      "byte_sha256_match": true
+    },
+    {
+      "gate": "M1",
+      "file": "segment_K_distribution.csv",
+      "rows": 162,
+      "columns": 6,
+      "exact_all_cells_match": true,
+      "byte_sha256_match": true
+    },
+    {
+      "gate": "M2",
+      "file": "diagnostic43_hourly_heatmap.csv",
+      "rows": 43,
+      "columns": 25,
+      "exact_all_cells_match": true,
+      "byte_sha256_match": true
+    },
+    {
+      "gate": "M2",
+      "file": "diagnostic43_pattern_summary.csv",
+      "rows": 43,
+      "columns": 25,
+      "exact_all_cells_match": true,
+      "byte_sha256_match": true
+    },
+    {
+      "gate": "M2",
+      "file": "background758_hourly_summary.csv",
+      "rows": 480,
+      "columns": 19,
+      "exact_all_cells_match": true,
+      "byte_sha256_match": true
+    },
+    {
+      "gate": "M2",
+      "file": "weekday_support_summary.csv",
+      "rows": 8,
+      "columns": 8,
+      "exact_all_cells_match": true,
+      "byte_sha256_match": true
+    },
+    {
+      "gate": "C2B",
+      "file": "daily_activity_case_results.csv",
+      "rows": 360,
+      "columns": 19,
+      "exact_all_cells_match": true,
+      "byte_sha256_match": false
+    },
+    {
+      "gate": "C2B",
+      "file": "daily_weather_case_results.csv",
+      "rows": 360,
+      "columns": 32,
+      "exact_all_cells_match": true,
+      "byte_sha256_match": false
+    },
+    {
+      "gate": "C2B",
+      "file": "case_evidence_summary.csv",
+      "rows": 9,
+      "columns": 55,
+      "exact_all_cells_match": true,
+      "byte_sha256_match": false
+    },
+    {
+      "gate": "F1A",
+      "file": "stored core_checkpoints/*/dong_metrics.csv",
+      "months": 9,
+      "exact_all_cells_match": true,
+      "scope": "existing checkpoint-to-aggregate QA; raw monthly Core not rerun"
+    },
+    {
+      "gate": "M3C",
+      "file": "diagnostic43_pair_support.csv",
+      "rows": 43,
+      "columns": 29,
+      "exact_all_cells_match": true
+    },
+    {
+      "gate": "M3C",
+      "file": "diagnostic43_evidence_matrix.csv",
+      "rows": 43,
+      "columns": 84,
+      "exact_all_cells_match": true
+    },
+    {
+      "gate": "M3C",
+      "file": "monthly_route_concentration_association.csv",
+      "rows": 8,
+      "columns": 12,
+      "exact_all_cells_match": true
+    }
+  ],
+  "full_raw_reexecution": false,
+  "existing_spatial_asset_hashes_match": true
+}
